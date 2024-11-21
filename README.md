@@ -18,7 +18,6 @@ An open-ended lab project developed as part of the 1st-semester Electronics Engi
 ---
 
 ## 📂 Project Structure
-```plaintext
 📦 Smart-Home-Automation
 ├── 📁 src
 │   ├── main.cpp        # Main program file
@@ -32,7 +31,7 @@ An open-ended lab project developed as part of the 1st-semester Electronics Engi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/smart-home-automation.git
+   git clone https://github.com/hammadurrehman2006/Smart_Home_Automation_System
    ```
 
 2. Navigate to the project directory:
@@ -61,4 +60,3 @@ An open-ended lab project developed as part of the 1st-semester Electronics Engi
 
 ## 🤝 Acknowledgments
 Special thanks to **Dr. Amna Shabbir** for her guidance and support throughout this project.
-```
