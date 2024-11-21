@@ -26,7 +26,7 @@ An open-ended lab project developed as part of the 1st-semester Electronics Engi
 │   └── utils.cpp       # Utility functions for logging and validation
 ├── README.md           # Project documentation
 └── LICENSE             # License information (if applicable)
-
+-----
 ## 🛠️ How to Run
 
 1. Clone the repository:
